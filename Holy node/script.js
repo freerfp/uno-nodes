@@ -1,0 +1,1 @@
+// Add JavaScript animation for bolt later
